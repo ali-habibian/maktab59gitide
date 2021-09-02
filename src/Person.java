@@ -4,4 +4,6 @@ public class Person {
   public String getName(){
     return "Ali";
   }
+
+  public int number(){}
 }
