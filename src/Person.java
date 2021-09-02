@@ -1,5 +1,7 @@
 public class Person {
   public void hello(){}
   
-  public int number(){}
+  public int number(){
+    retturn 0;
+  }
 }
