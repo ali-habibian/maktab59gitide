@@ -5,5 +5,7 @@ public class Person {
     return "Ali";
   }
 
-  public int number(){}
+  public int number(){
+    return 0;
+  }
 }
